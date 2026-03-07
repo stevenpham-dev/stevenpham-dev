@@ -27,4 +27,4 @@ Repo: https://github.com/stevenpham-dev/aws-incident-api
 ## Contact
 
 * LinkedIn: https://www.linkedin.com/in/stevenpham-dev
-* Email: [spham632@yahoo.com](mailto:spham632@yahoo.com)
+* Email: [sphamaws@yahoo.com](mailto:sphamaws@yahoo.com)
