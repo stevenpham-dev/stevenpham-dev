@@ -1,6 +1,15 @@
 # Steven Pham
 
-Computer Science B.S. candidate (CSUDH, Spring 2026) with AWS certifications and hands-on projects focused on cloud infrastructure, monitoring, and serverless systems. Open to remote Cloud Support and Cloud Engineer roles.
+AWS Certified Solutions Architect (SAA)
+
+Cloud-focused Computer Science student graduating Spring 2026.
+
+Hands-on AWS projects focused on:
+• Cloud infrastructure
+• Monitoring & incident response
+• Serverless systems
+
+Open to Cloud Support Engineer, Cloud Operations Engineer, and Junior Cloud Engineer roles.
 
 ## Featured AWS Projects
 
